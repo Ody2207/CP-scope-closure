@@ -1,9 +1,9 @@
 // Variables 
 
-var a; 			// Declaración
-var b = 'b'; 	// Declaración -> Asignación
-b = 'bb'; 		// Reasignación
-var a = 'aa'; 	// Redeclaracón
+var a; 			// <----- Declaración
+var b = 'b'; 	// <----- Declaración -> Asignación
+b = 'bb'; 		// <----- Reasignación
+var a = 'aa'; 	// <----- Redeclaracón
 
 // <--------------------- Global Scope ----------------->
 // Notes ---->
